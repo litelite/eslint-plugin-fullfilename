@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-fullfilename",
-  "version": "1.0.0.1",
+  "version": "1.0.1",
   "keywords": ["eslint"],
   "description": "eslint plugin to verrify that file full path matches naming conventions",
   "main": "index.js",
