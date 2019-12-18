@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "author": "Antoine Beaulieu Lessard",
-  "license": "GPLV2",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^24.9.0"
   }
