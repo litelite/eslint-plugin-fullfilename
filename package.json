@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-fullfilename",
+  "version": "1.0.0",
+  "description": "eslint plugin to verrify that file full path matches naming conventions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Antoine Beaulieu Lessard",
+  "license": "GPLV2",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
